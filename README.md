@@ -1,6 +1,3 @@
-# DataCamp_Learning_projects
-All the projects that I have done while taking datacamp's "Data scientist with python" track
+# Project 02:
 
-The repository will contain all the projects, each one in a different branch, and all of them (in seperate folders) in the "master" branch
-
-Link to my Datacamp portfolio: https://www.datacamp.com/portfolio/hbencheikhlehocine
+The second project dives again into **Netflix** movies to check their duration (if it declines or not), this time, the dataset is larger and contains other kinds of shows (TV shows), and movies are categorised, which can give more specific results.
