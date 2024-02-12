@@ -1,6 +1,3 @@
-# DataCamp_Learning_projects
-All the projects that I have done while taking datacamp's "Data scientist with python" track
+# Project 03:
 
-The repository will contain all the projects, each one in a different branch, and all of them (in seperate folders) in the "master" branch
-
-Link to my Datacamp portfolio: https://www.datacamp.com/portfolio/hbencheikhlehocine
+This project investigates the marks of pupils in U.S schools and determines the best schools in each field (reading, writing, maths) and the overall best schools and bouroughs.
