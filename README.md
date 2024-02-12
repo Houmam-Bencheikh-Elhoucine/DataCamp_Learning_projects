@@ -1,6 +1,3 @@
-# DataCamp_Learning_projects
-All the projects that I have done while taking datacamp's "Data scientist with python" track
+# Project 03:
 
-The repository will contain all the projects, each one in a different branch, and all of them (in seperate folders) in the "master" branch
-
-Link to my Datacamp portfolio: https://www.datacamp.com/portfolio/hbencheikhlehocine
+Investigating Nobel price winners list to get some information about the countries with highest number of winners, the gender of the winners over the years, and the contribution of female scientists /activists into it, and the range of the ages of the winners.
